@@ -1,4 +1,3 @@
-echo "Изменено в third-repo" >> README.md
+echo "Изменено в fourth-repo" >> README.md
 git add README.md
-git commit -m "Update from third"
-git push
+git commit -m "Update from fourth"
